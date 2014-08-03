@@ -1,17 +1,17 @@
-95186
+95192
 / Estensione linguistica italiana - Italian Writing Aids extension
 / Forked from: Dizionario italiano, see README.txt for details
 / 
 / Copyright (C) 2001, 2002 Gianluca Turconi
 / Copyright (C) 2002, 2003, 2004 Gianluca Turconi and Davide Prina
 / Copyright (C) 2004, 2005, 2006, 2007  Davide Prina
-/ Copyright (C) 2010, 2011 Andrea Pescetti
+/ Copyright (C) 2010, 2011, 2012 Andrea Pescetti
 /
-/ E-Mail: pescetti<AT>openoffice<DOT>org
-/ Home: http://extensions.services.openoffice.org/project/dict-it
+/ E-Mail: pescetti<AT>apache<DOT>org
+/ Home: http://extensions.openoffice.org/project/dict-it
 / License: GNU GPL 3
 /
-/ Version 3.3.1 (24/03/2011) (DD/MM/YYYY)
+/ Version 3.4.0 (05/09/2013) (DD/MM/YYYY)
 /
 / This file is distributed under the GPL license.
 /
@@ -15708,7 +15708,7 @@ Candidoni
 Candio
 Candiolo
 candire/CI
-candito/Ey
+candito/o
 candore/S
 canducci
 canea/Q
@@ -19370,6 +19370,7 @@ coleretico/p
 colerico/p
 coleroso/o
 colesterina
+colesterolemia/Q
 colesterolo
 colf
 Colfelice
@@ -22051,7 +22052,7 @@ corresponsabilità
 corresponsione/S
 correttezza/Q
 correttivo/o
-corretto/mYJ
+corretto/mYJW
 correttore/S
 correttrice/S
 correzionale/S
@@ -47215,6 +47216,7 @@ lavoracci
 lavoraccio
 lavorando/D
 lavorare/ALKhlI
+lavorativamente
 lavorativo/o
 lavorato/Ey
 lavoratore/S
@@ -53869,7 +53871,6 @@ mucosità
 mucoso/o
 mucoviscidosi
 mucronato/o
-mude
 muezzin
 muezzino
 muffire/tvI
@@ -69902,6 +69903,7 @@ riassegnando/D
 riassegnare/ALKhlI
 riassegnato/Ey
 riassegnazione/S
+riassemblare/ALKhlTXqrI
 riassestamento/O
 riassestando/D
 riassestare/ALKhlI
@@ -72676,7 +72678,8 @@ rispondendo/D
 rispondenza/Q
 rispondere/BI
 rispondessono
-risponditrici
+risponditore/S
+risponditrice/S
 risposando/D
 risposare/ALKhlI
 risposato/Ey
@@ -83093,6 +83096,7 @@ squittiscano
 squittisce
 squittiscono
 squittito/Ey
+SQL
 sradicabile/S
 sradicamento/O
 sradicando/D
@@ -88971,6 +88975,7 @@ traccheggiato/Ey
 traccheggii
 tracchete
 tracciabile/S
+tracciabilità
 traccialinee
 tracciamento/O
 tracciando/D
@@ -92177,6 +92182,7 @@ uvala/TUqrs
 uva/QTUqrs
 uveale/TUqrs
 uvea/QTUqrs
+uveite/S
 uvetta/QTUqrs
 uvifera/QTUqrs
 uvifero/OTqr
@@ -95006,7 +95012,7 @@ zigzag
 zigzagando/D
 zigzagare/ALKhlI
 zigzagato/Ey
-ziiiziiizxxivziiizmmxi
+ziiizivzvzixzmmxiii
 zillo/O
 zimarra/Q
 zimasi

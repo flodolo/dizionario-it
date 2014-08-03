@@ -1,11 +1,11 @@
-Version 3.3.1, 24-Mar-2011
+Version 3.3.3, 03-Apr-2012
 
 # Estensione linguistica italiana - Italian Writing Aids extension
-# Copyright (C) 2010, 2011 Andrea Pescetti
+# Copyright (C) 2010, 2011, 2012 Andrea Pescetti
 # Portions Copyright (C) 2001-2008 other authors, see below for details.
 # License: GNU GPL 3
 # Home: http://extensions.services.openoffice.org/project/dict-it
-# E-Mail: pescetti<AT>openoffice<DOT>org
+# E-Mail: pescetti<AT>apache<DOT>org
 
 [ Please scroll down for English. ]
 
@@ -13,12 +13,12 @@ ITALIANO
 
 L'estensione linguistica italiana fornisce le funzioni di correzione
 ortografica, dizionario dei sinonimi e sillabazione per la lingua
-italiana in OpenOffice.org. Il modulo di correzione ortografica è
+italiana in Apache OpenOffice. Il modulo di correzione ortografica è
 utilizzabile anche in altri programmi che offrano supporto per
 dizionari MySpell, ASpell o HunSpell.
 
 L'estensione linguistica italiana è rilasciata da Andrea Pescetti
-pescetti<AT>openoffice<DOT>org sotto i termini e le condizioni della
+pescetti<AT>apache<DOT>org sotto i termini e le condizioni della
 GNU General Public License (GPL) 3. Una copia della licenza è
 disponibile in coda al presente file.
 
@@ -35,7 +35,7 @@ su http://tug.ctan.org/pkg/ithyph ; il file README_hyph_it_IT.txt
 contiene le note di copyright applicabili a tale pacchetto.
 
 I volontari elencati di seguito, e in generale la Comunità
-OpenOffice.org e il PLIO http://www.plio.it hanno contribuito
+OpenOffice e il PLIO http://www.plio.it hanno contribuito
 all'estensione linguistica italiana:
 - Andrea Pescetti, maintainer
 - Paolo Mantovani, struttura dell'estensione
@@ -46,12 +46,12 @@ all'estensione linguistica italiana:
 ENGLISH
 
 The Italian Writing Aids extension provides spellchecker, theasurus and
-hyphenation functionality in Italian for OpenOffice.org. The spell
+hyphenation functionality in Italian for Apache OpenOffice. The spell
 checking module can be used in any other programs too that support
 MySpell, ASpell or HunSpell dictionaries.
 
 The Italian Writing Aids extension is distributed by Andrea Pescetti
-pescetti<AT>openoffice<DOT>org under the terms and conditions of the
+pescetti<AT>apache<DOT>org under the terms and conditions of the
 GNU General Public License (GPL), version 3. A copy of the license is
 at the end of this file.
 
@@ -66,7 +66,7 @@ based on a conversion of the "Hyphenation patterns for the Italian
 language" available at http://tug.ctan.org/pkg/ithyph ; see the
 README_hyph_it_IT.txt file for the relevant copyright notices.
 
-The following volunteers, and in general the OpenOffice.org Community
+The following volunteers, and in general the OpenOffice Community
 and PLIO http://www.plio.it contributed to the Italian Writing Aids
 extension:
 - Andrea Pescetti, maintainer
