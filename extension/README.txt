@@ -1,10 +1,10 @@
-Version 3.3.3, 03-Apr-2012
+Version 4.0, 27-Sep-2013
 
 # Estensione linguistica italiana - Italian Writing Aids extension
-# Copyright (C) 2010, 2011, 2012 Andrea Pescetti
+# Copyright (C) 2010, 2011, 2012, 2013 Andrea Pescetti
 # Portions Copyright (C) 2001-2008 other authors, see below for details.
 # License: GNU GPL 3
-# Home: http://extensions.services.openoffice.org/project/dict-it
+# Home: http://extensions.openoffice.org/project/dict-it
 # E-Mail: pescetti<AT>apache<DOT>org
 
 [ Please scroll down for English. ]
@@ -81,7 +81,7 @@ extension:
 # and/or modify it under the terms of the GNU General Public License,
 # version 3, as published by the Free Software Foundation.
 #
-# The "Italian thesaurus" is distributed in the hope that it will be 
+# The "Italian thesaurus" is distributed in the hope that it will be
 # useful, but WITHOUT ANY WARRANTY; without even the implied warranty
 # of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
