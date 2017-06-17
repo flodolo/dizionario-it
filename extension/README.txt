@@ -1,7 +1,7 @@
-Version 4.0, 27-Sep-2013
+Version 5.0, 10-Feb-2016
 
 # Estensione linguistica italiana - Italian Writing Aids extension
-# Copyright (C) 2010, 2011, 2012, 2013 Andrea Pescetti
+# Copyright (C) 2010, 2011, 2012, 2013, 2014, 2015, 2016 Andrea Pescetti
 # Portions Copyright (C) 2001-2008 other authors, see below for details.
 # License: GNU GPL 3
 # Home: http://extensions.openoffice.org/project/dict-it
@@ -35,13 +35,15 @@ su http://tug.ctan.org/pkg/ithyph ; il file README_hyph_it_IT.txt
 contiene le note di copyright applicabili a tale pacchetto.
 
 I volontari elencati di seguito, e in generale la Comunità
-OpenOffice e il PLIO http://www.plio.it hanno contribuito
-all'estensione linguistica italiana:
+OpenOffice e il PLIO http://www.plio.it hanno aiutato in vari modi
+lo sviluppo e la manutenzione dell'estensione linguistica italiana:
 - Andrea Pescetti, maintainer
 - Paolo Mantovani, struttura dell'estensione
-- Carlo Strata, suggerimenti e segnalazione di errori nel dizionario
-- Diego Favaro, suggerimenti e segnalazione di errori nel thesaurus
 - Renzo Bianchi, grafica e QA
+- Hanno contribuito con suggerimenti: Diego Favaro, Carlo Strata,
+  HeLLy33, mezzi, praticamente, The Dude, as7er, crycra, chiarachi,
+  IlDebs, Pilo, Gilberto Beda, Rodolfo R., Paolo Pozzan e molti altri
+  volontari.
 
 ENGLISH
 
@@ -66,14 +68,9 @@ based on a conversion of the "Hyphenation patterns for the Italian
 language" available at http://tug.ctan.org/pkg/ithyph ; see the
 README_hyph_it_IT.txt file for the relevant copyright notices.
 
-The following volunteers, and in general the OpenOffice Community
-and PLIO http://www.plio.it contributed to the Italian Writing Aids
-extension:
-- Andrea Pescetti, maintainer
-- Paolo Mantovani, extension structure
-- Carlo Strata, suggestions and bug reports (spellchecker)
-- Diego Favaro, suggestions and bug reports (thesaurus)
-- Renzo Bianchi, graphics and QA
+Many volunteers, and in general the OpenOffice Community and PLIO
+http://www.plio.it helped in some way the maintenance of the Italian
+Writing Aids extension. See above for a list.
 
 ----------------------------------------------------------------------
 
@@ -81,7 +78,7 @@ extension:
 # and/or modify it under the terms of the GNU General Public License,
 # version 3, as published by the Free Software Foundation.
 #
-# The "Italian thesaurus" is distributed in the hope that it will be
+# The "Italian thesaurus" is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied warranty
 # of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
