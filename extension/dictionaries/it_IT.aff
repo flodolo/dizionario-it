@@ -3,13 +3,13 @@
 # Copyright (C) 2001, 2002 Gianluca Turconi
 # Copyright (C) 2002, 2003, 2004 Gianluca Turconi and Davide Prina
 # Copyright (C) 2004, 2005, 2006, 2007  Davide Prina
-# Copyright (C) 2013, 2014 Andrea Pescetti
+# Copyright (C) 2013, 2014, 2015 Andrea Pescetti
 #
 # E-Mail: pescetti<AT>apache<DOT>org
 # Home: http://extensions.openoffice.org/project/dict-it
 # License: GNU GPL 3
 #
-# Version 4.1 (20/09/2014) (DD/MM/YYYY)
+# Version 4.2 (25/09/2015) (DD/MM/YYYY)
 #
 # This file is part of the "Estensione linguistica italiana - Italian
 # Writing Aids extension".
@@ -32,7 +32,7 @@
 NAME Dizionario italiano
 LANG it_IT
 HOME http://extensions.openoffice.org/project/dict-it
-VERSION 4.1 (20/09/2014)
+VERSION 4.2 (25/09/2015)
 SET UTF-8
 TRY aioertnsclmdpgubzfvhàq'ACMSkBGPLxEyRTVòIODNwFéùèìjUZKHWJYQXÙÀÒÈÌÉ
 #Nota: non presenti nel dizionario: ÙÀÒÈÌÉ, vanno aggiunte alla TRY rigenerata
