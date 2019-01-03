@@ -1,0 +1,13 @@
+{
+    "dictionaries": {
+        "it": "dictionaries/it_IT.dic"
+    },
+    "version": "5.0.2",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "it-IT@dictionaries.addons.mozilla.org"
+        }
+    },
+    "name": "Dizionario italiano",
+    "manifest_version": 2
+}
