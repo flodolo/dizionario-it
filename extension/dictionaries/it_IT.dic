@@ -6,6 +6,17 @@
 / Copyright (C) 2002, 2003, 2004 Gianluca Turconi and Davide Prina
 / Copyright (C) 2004, 2005, 2006, 2007  Davide Prina
 / Copyright (C) 2010, 2011, 2012, 2013, 2014, 2015, 2016 Andrea Pescetti
+/ Copyright (C) 2020 Francesco Lodolo
+/
+/ E-Mail: flod<AT>lodolo<DOT>net
+/
+/ This is a fork of the Libreoffice dictionary to use in Mozilla products.
+/
+/ License: GNU GPL 3
+/ Home: https://github.com/flodolo/dizionario-it
+/ Version 5.1 (10/08/2020) (DD/MM/YYYY)
+/
+/ Info about the original package
 /
 / E-Mail: pescetti<AT>apache<DOT>org
 / Home: http://extensions.openoffice.org/project/dict-it
