@@ -1,4 +1,4 @@
-95438
+95459
 / Estensione linguistica italiana - Italian Writing Aids extension
 / Forked from: Dizionario italiano, see README.txt for details
 /
@@ -4921,6 +4921,7 @@ anconetano/OTqr
 anconitana/QTUqrs
 anconitano/OTqr
 ancor
+àncora
 ancora/QTUqrs
 ancorabile/STU
 ancoraggio/OTqr
@@ -5947,6 +5948,7 @@ antivibrazione/STUqrs
 antivigilia/QTUqrs
 antivipera/TUqrs
 antivirale/STUqrs
+antivirus
 antivivisezione/TU
 antivivisezionista/QRTUqrs
 Antobio/T^
@@ -13419,10 +13421,12 @@ bloccato/Ey
 bloccatura/Q
 blocchetto/O
 blog
+blog
 blu
 bluastro/o
 blue
 blues
+bluetooth
 bluff
 bluffare/zI
 bluffato/Ey
@@ -21753,6 +21757,7 @@ convulso/oY
 Conzano
 coobbligato/o
 Cook
+cookie
 cooperando/D
 cooperare/ALKhlI
 cooperativismo/O
@@ -22815,6 +22820,9 @@ critici
 criticismo/O
 criticità
 criticona/QR
+crittare/ALKhlI
+crittato/Ey
+crittazione/S
 crittogama/Q
 crittogamico/p
 crittografando/D
@@ -31355,6 +31363,7 @@ evidenziante/Us
 evidenziare/ALKhlTXqrI
 evidenziato/EyTUqrs
 evidenziatore/STq
+evidenziazione/S
 Evidenzio/Tqr
 evincente/Us
 evincere/BTXqrI
@@ -34681,6 +34690,7 @@ furoreggiare/ALKhlI
 furoreggiato/o
 furtado
 Furtei
+furtività
 furtivo/oY
 furto/O
 fusaggine/S
@@ -39055,6 +39065,7 @@ immeritevole/STUYq
 immersa/QTU
 immersero
 immersione/STUqs
+immersivo/OT
 immerso/OTJ
 immeschinente/Us
 immeschinire/tvTXqrI
@@ -81121,7 +81132,6 @@ soprattenda/Q
 soprattetto
 soprattitolo/O
 soprattutto
-sopratutto
 sopravalore/S
 sopravalutando/D
 sopravalutare/ALKhlI
@@ -81462,7 +81472,7 @@ sottobraccio
 sottocapitolo/O
 sottocapo/O
 sottocapsulare/S
-sottocartelle
+sottocartella/Q
 sottocchio
 sottoccupato/o
 sottoccupazione/S
@@ -94985,6 +94995,7 @@ Weltanschauung
 West
 western
 whisky
+Wi-Fi
 Wilma
 windsurf
 Wisconsin
