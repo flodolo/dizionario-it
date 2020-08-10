@@ -59,6 +59,12 @@ REP á à
 REP ú ù
 REP í ì
 
+ICONV 1
+ICONV ’ '
+
+OCONV 1
+OCONV ' ’
+
 SFX A Y 81
 SFX A are o are
 SFX A are i [^icg]are
@@ -3414,4 +3420,3 @@ SFX = 0 novenni .
 # sn. = singolare
 # term. = termine
 # v. = vedere
-
