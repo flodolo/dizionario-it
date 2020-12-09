@@ -1,4 +1,11 @@
-Version 5.0, 10-Feb-2016
+Version 5.1, 09/12/2020 (DD/MM/YYYY)
+
+Starting with version 5.1, this is a fork of the original Libreoffice
+dictionary and it's designed to be used in Mozilla products.
+
+For more details, see https://github.com/flodolo/dizionario-it
+
+What follows is the README of the original package (v 5.0).
 
 # Estensione linguistica italiana - Italian Writing Aids extension
 # Copyright (C) 2010, 2011, 2012, 2013, 2014, 2015, 2016 Andrea Pescetti
@@ -78,7 +85,7 @@ Writing Aids extension. See above for a list.
 # and/or modify it under the terms of the GNU General Public License,
 # version 3, as published by the Free Software Foundation.
 #
-# The "Italian thesaurus" is distributed in the hope that it will be 
+# The "Italian thesaurus" is distributed in the hope that it will be
 # useful, but WITHOUT ANY WARRANTY; without even the implied warranty
 # of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
