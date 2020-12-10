@@ -1,4 +1,4 @@
-95459
+95465
 / Estensione linguistica italiana - Italian Writing Aids extension
 / Forked from: Dizionario italiano, see README.txt for details
 /
@@ -14,7 +14,7 @@
 /
 / License: GNU GPL 3
 / Home: https://github.com/flodolo/dizionario-it
-/ Version 5.1 (10/08/2020) (DD/MM/YYYY)
+/ Version 5.2 (XX/XX/2021) (DD/MM/YYYY)
 /
 / Info about the original package
 /
@@ -65495,6 +65495,7 @@ privilegiato/Ey
 Prizzi
 pro
 proavo/o
+proattivo/oY
 probabile/SYW
 probabilismo/O
 probabilista/QR
@@ -72487,6 +72488,10 @@ riproduzione/S
 riprogettare
 riprografia
 riprografico/p
+riprogettammando/D
+riprogettare/ALKhlI
+riprogettato/Ey
+riprogettazione/S
 riprogrammando/D
 riprogrammare/ALKhlI
 riprogrammato/Ey
@@ -75878,6 +75883,7 @@ scansando/D
 scansare/ALKhlI
 scansato/Ey
 scansia/Q
+scansionabile/S
 scansionando/D
 scansionare/ALKhlI
 scansionato/Ey

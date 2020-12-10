@@ -1,4 +1,4 @@
-Version 5.1, 09/12/2020 (DD/MM/YYYY)
+Version 5.2, XX/XX/2021 (DD/MM/YYYY)
 
 Starting with version 5.1, this is a fork of the original Libreoffice
 dictionary and it's designed to be used in Mozilla products.
