@@ -13,7 +13,7 @@
 #
 # License: GNU GPL 3
 # Home: https://github.com/flodolo/dizionario-it
-# Version 5.2 (XX/XX/2021) (DD/MM/YYYY)
+# Version 5.1 (12/12/2020) (DD/MM/YYYY)
 #
 # See GitHub releases for more information.
 #
@@ -45,7 +45,7 @@
 NAME Dizionario italiano
 LANG it_IT
 HOME https://github.com/flodolo/dizionario-it
-VERSION 5.2 (XX/XX/2021)
+VERSION 5.1 (12/12/2020)
 SET UTF-8
 TRY aioertnsclmdpgubzfvhàq'ACMSkBGPLxEyRTVòIODNwFéùèìjUZKHWJYQXÙÀÒÈÌÉ
 # Nota: non presenti nel dizionario: ÙÀÒÈÌÉ, vanno aggiunte alla TRY rigenerata
