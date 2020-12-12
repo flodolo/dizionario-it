@@ -1,4 +1,4 @@
-95409
+95412
 / "Dizionario italiano" add-on for Mozilla products.
 /
 / Forked from: "Estensione linguistica italiana - Italian Writing Aids
@@ -18380,7 +18380,6 @@ ciascun
 ciascun'altalena
 ciascuna
 ciascuno
-CIB
 cibando/D
 cibare/ALKhlI
 cibaria/Q
@@ -72457,7 +72456,7 @@ riproduttivo/o
 riproduttore/S
 riproduttrice/S
 riproduzione/S
-riprogettammando/D
+riprogettando/D
 riprogettare
 riprogettare/ALKhlI
 riprogettato/Ey
@@ -81435,7 +81434,6 @@ sottocapitolo/O
 sottocapo/O
 sottocapsulare/S
 sottocartella/Q
-sottocartelle
 sottocchio
 sottoccupato/o
 sottoccupazione/S
@@ -81775,6 +81773,7 @@ sovrapprezzo/O
 sovrapproduzione/S
 sovrapprofitto/O
 sovrascorrimento/O
+sovrascritta/Q
 sovrascritto/O
 sovrascrittura/Q
 sovrascrivendo/D
@@ -92174,6 +92173,7 @@ urinazione/STUqs
 urinoso/Tqr
 Urio
 uritani/Tqr
+URL
 urlando/D
 urlante/Us
 urlare/ALKhlTXqrI
@@ -92242,6 +92242,7 @@ usante/Us
 usanza/QTUqrs
 usare/ALKhlTXqrI
 usato/EyTUqrs
+USB
 usbeca/QTUqrs
 usbeco/OTqr
 usbergo/OTqr
@@ -94953,9 +94954,11 @@ western
 whisky
 Wi-Fi
 Wilma
+Windows
 windsurf
 Wisconsin
 word
+WordPress
 workshop
 workstation
 wow
