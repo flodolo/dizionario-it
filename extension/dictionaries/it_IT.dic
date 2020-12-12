@@ -1,4 +1,4 @@
-95405
+95407
 / "Dizionario italiano" add-on for Mozilla products.
 /
 / Forked from: "Estensione linguistica italiana - Italian Writing Aids
@@ -25943,7 +25943,7 @@ discolpe
 disconnessione/S
 disconnesso/m
 disconnettendo/D
-disconnettere/I
+disconnettere/BI
 disconnetto
 disconnettono
 disconobbe
@@ -64182,7 +64182,7 @@ Possagno
 possano
 possanza
 possedendo/D
-possedere/ÈI
+possedere/fI
 possedimento/O
 posseditrice/S
 posseduto/Ey
@@ -72652,7 +72652,7 @@ risecchisce
 risecchiscono
 risecchito/Ey
 risedendo/D
-risedere/ÈI
+risedere/fI
 riseduto/Ey
 risegando/D
 risegare/ALKhlI
@@ -72847,7 +72847,8 @@ rispondendo/D
 rispondenza/Q
 rispondere/BI
 rispondessono
-risponditrici
+risponditore/S
+risponditrice/S
 risposando/D
 risposare/ALKhlI
 risposato/Ey
@@ -81065,7 +81066,7 @@ soprasensibile/S
 soprasenso/O
 soprassalto/O
 soprassedendo/D
-soprassedere/ÈI
+soprassedere/fI
 soprasseduto/Ey
 soprassegnando/D
 soprassegnare/ALKhlI
@@ -94955,6 +94956,7 @@ Wisconsin
 word
 workshop
 workstation
+wow
 wrestling
 WTO
 WWF
