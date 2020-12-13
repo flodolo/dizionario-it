@@ -1,50 +1,41 @@
-# "Dizionario italiano" add-on for Mozilla products.
-#
-# Forked from: "Estensione linguistica italiana - Italian Writing Aids
-# extension" version 5.1.0, see README.txt for more details.
+# Dizionario italiano
 #
 # Copyright (C) 2001, 2002 Gianluca Turconi
 # Copyright (C) 2002, 2003, 2004 Gianluca Turconi and Davide Prina
 # Copyright (C) 2004, 2005, 2006, 2007  Davide Prina
-# Copyright (C) 2010 - 2015, Andrea Pescetti
-# Copyright (C) 2010, 2011, 2012, 2013, 2014, 2015, 2016 Andrea Pescetti
+# Copyright (C) 2010, 2011, 2013, 2014, 2015 Andrea Pescetti
 # Copyright (C) 2020, LibreItalia - Marina Latini
-# Copyright (C) 2020 Francesco Lodolo
 #
-# E-Mail: flod<AT>lodolo<DOT>net
-# Home: https://github.com/flodolo/dizionario-it/
-#
+# E-Mail: marina<dot>latini<AT>libreoffice<dot>org
+# Home: https://libreitalia.org
 # License: GNU GPL 3
 #
-# Version 5.1 (13/12/2020) (DD/MM/YYYY)
+# Version 5.1.0 (13/10/2020) (DD/MM/YYYY)
 #
-# For more information on the changes, see GitHub releases at:
-# https://github.com/flodolo/dizionario-it/tags
+# This file is distributed under GPL license.
 #
-# To install the add-on, visit:
-# https://addons.mozilla.org/firefox/addon/dizionario-italiano/
+# This file is part of the "Estensione linguistica italiana - Italian
+# Writing Aids extension".
 #
-# This file is distributed under the GPL license.
+# The "Estensione linguistica italiana - Italian Writing Aids extension"
+# is free software; you can redistribute it and/or modify it under the
+# terms of the GNU General Public License, version 3, as published by
+# the Free Software Foundation.
 #
-# This file is part of the "Dizionario Italiano" add-on.
-#
-# The "Dizionario Italiano" add-on is free software; you can redistribute it
-# and/or modify it under the terms of the GNU General Public License, version 3,
-# as published by the Free Software Foundation.
-#
-# The "Dizionario Italiano" is distributed in the hope that it will be
-# useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+# The "Estensione linguistica italiana - Italian Writing Aids extension"
+# is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public
-# License along with the "Estensione linguistica italiana - Italian
-# Writing Aids extension"; if not, see <http://www.gnu.org/licenses/>.
+# License along with the "dizionario italiano",
+# if not, see <http://www.gnu.org/licenses/>.
 
 NAME Dizionario italiano
 LANG it_IT
-HOME https://github.com/flodolo/dizionario-it
-VERSION 5.1 (13/12/2020)
+HOME https://libreitalia.org
+VERSION 5.1.0 (13/10/2020)
 SET UTF-8
 TRY aioertnsclmdpgubzfvhàq'ACMSkBGPLxEyRTVòIODNwFéùèìjUZKHWJYQXÙÀÒÈÌÉ
 # Nota: non presenti nel dizionario: ÙÀÒÈÌÉ, vanno aggiunte alla TRY rigenerata
@@ -61,12 +52,6 @@ REP ó ò
 REP á à
 REP ú ù
 REP í ì
-
-ICONV 1
-ICONV ’ '
-
-OCONV 1
-OCONV ' ’
 
 SFX A Y 81
 SFX A are o are
