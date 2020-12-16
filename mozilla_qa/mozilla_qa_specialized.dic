@@ -1,4 +1,4 @@
-264
+265
 / Specialized dictionary used to check spelling of Italian translations of
 / Mozilla products
 
@@ -32,6 +32,7 @@ Chrome
 Chromebook
 Chromium
 cipher
+Common Voice
 compositor
 content
 contenteditable
@@ -40,6 +41,7 @@ controller
 coords
 counter-style
 crash
+Creative Commons
 cross-origin
 cryptominer
 ctrl
@@ -156,6 +158,8 @@ Nightly
 non-profit
 object
 oops
+open source
+Open Source
 overlay
 padding
 parsing
