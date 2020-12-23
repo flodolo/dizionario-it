@@ -1,4 +1,4 @@
-265
+267
 / Specialized dictionary used to check spelling of Italian translations of
 / Mozilla products
 
@@ -89,7 +89,9 @@ feature
 fetch
 FetchEvent.respondWith
 Finder
+fingerprint
 fingerprinter
+fingerprinting
 Fission
 flex
 focusable
