@@ -1,4 +1,4 @@
-267
+277
 / Specialized dictionary used to check spelling of Italian translations of
 / Mozilla products
 
@@ -16,6 +16,7 @@ application
 argh
 Assembly
 autofirmato
+avatar
 binding
 Bitwarden
 blackbox
@@ -105,6 +106,7 @@ GeoTrust
 Ghostery
 Glean
 Gmail
+Gravatar
 grid
 handshake
 hash
@@ -115,6 +117,7 @@ home
 host
 hosted
 hostname
+Hotmail
 html
 HTMLMediaElement
 https
@@ -158,10 +161,13 @@ namespace
 nickname
 Nightly
 non-profit
+OAuth
 object
 oops
 open source
 Open Source
+OpenID
+Outlook
 overlay
 padding
 parsing
@@ -176,6 +182,7 @@ plugin
 policies
 policy
 preallocato/Ey
+precaricare/ALKhlI
 precaricato/Ey
 preload
 preset
@@ -230,6 +237,8 @@ spec
 stack
 Store
 Strict
+Stripe
+supercookie
 Symantec
 Symmetric
 Sync
@@ -269,3 +278,4 @@ X-Frame-Options
 x86
 XMLHttpRequest
 XPath
+Yahoo
