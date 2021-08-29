@@ -1,4 +1,4 @@
-279
+281
 / Specialized dictionary used to check spelling of Italian translations of
 / Mozilla products
 
@@ -154,6 +154,7 @@ MediaStream
 mimetype
 mining
 ms
+multi-hop
 multicolonna
 multilinea
 multiorigine
@@ -226,6 +227,7 @@ send
 service
 ServiceWorker
 session
+single-hop
 Siri
 smooth
 Snapdragon
