@@ -1,4 +1,4 @@
-282
+284
 / Specialized dictionary used to check spelling of Italian translations of
 / Mozilla products
 
@@ -87,6 +87,7 @@ extensions
 fallback
 favicon
 feature
+feed
 fetch
 FetchEvent.respondWith
 Finder
@@ -169,6 +170,7 @@ oops
 open source
 Open Source
 OpenID
+OpenPGP
 Outlook
 overlay
 padding
