@@ -1,4 +1,4 @@
-284
+285
 / Specialized dictionary used to check spelling of Italian translations of
 / Mozilla products
 
@@ -135,6 +135,7 @@ intersito
 kB
 key
 keyframe
+Klar
 Large-Allocation
 LastPass
 Lax
@@ -175,8 +176,8 @@ Outlook
 overlay
 padding
 parsing
-PayPal
 payload
+PayPal
 PDF.js
 peer
 phishing
@@ -271,7 +272,6 @@ upload
 verify
 VeriSign
 webapp
-widget
 WebAssembly
 WebExtension
 WebGL
@@ -280,6 +280,7 @@ Webmaker
 WebRTC
 WebVR
 WebXR
+widget
 wiki
 worker
 X-Frame-Options
