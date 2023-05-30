@@ -1,4 +1,4 @@
-285
+286
 / Specialized dictionary used to check spelling of Italian translations of
 / Mozilla products
 
@@ -48,6 +48,7 @@ cryptominer
 ctrl
 Dashlane
 Daylight
+dashboard
 debug
 debugger
 decodeAudioData
