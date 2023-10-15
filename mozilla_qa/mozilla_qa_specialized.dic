@@ -1,4 +1,4 @@
-286
+289
 / Specialized dictionary used to check spelling of Italian translations of
 / Mozilla products
 
@@ -46,9 +46,9 @@ Creative Commons
 cross-origin
 cryptominer
 ctrl
+dashboard
 Dashlane
 Daylight
-dashboard
 debug
 debugger
 decodeAudioData
@@ -144,6 +144,7 @@ layout
 legacy
 LinkedIn
 list
+listener
 Lockwise
 log
 Mac
@@ -151,6 +152,7 @@ malfunzionare/ALKhlI
 malware
 mapping
 Marketplace
+Mastodon
 MathML
 max-age
 MediaStream
