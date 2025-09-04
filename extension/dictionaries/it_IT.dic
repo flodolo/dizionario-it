@@ -1,4 +1,4 @@
-95443
+95444
 / "Dizionario italiano" add-on for Mozilla products.
 /
 / Forked from: "Estensione linguistica italiana - Italian Writing Aids
@@ -87,7 +87,7 @@ abbaiare/ALKhlTXI
 abbaiata/QTUqs
 abbaiato/EyT
 abbaino/OTq
-abbaio/nTq
+abbaio/нTq
 abballando/D
 abballare/ALKhlTXI
 abballata/QTU
@@ -256,8 +256,8 @@ abbozzamento/OTq
 abbozzando/D
 abbozzare/ALKhlTXI
 abbozzata/QTU
-abbozzaticcia/nTU
-abbozzaticcio/OT
+abbozzaticcia/TU
+abbozzaticcio/nOT
 abbozzato/EyYT
 abbozzo/OTq
 abbozzolando/D
@@ -1775,7 +1775,7 @@ addetto/OTqr
 addì
 addiaccio/OT
 addietro/T
-addio/nTq
+addio/нTq
 addirittura
 Addis
 Addison
@@ -18222,7 +18222,7 @@ chinolina/Q
 chinone/S
 chinotto/O
 Chio
-chiocchiolio/n
+chiocchiolio/н
 chioccia/n
 chiocciando/D
 chiocciare/ALKhlI
@@ -18232,7 +18232,7 @@ chiocciolaio/o
 chioccolando/D
 chioccolare/ALKhlI
 chioccolato/Ey
-chioccolio/n
+chioccolio/н
 chioccolo/O
 chiodaio/o
 chiodame/S
@@ -34409,7 +34409,8 @@ frumentone/S
 frusciando/D
 frusciare/ALKhlI
 frusciato/Ey
-fruscii
+fruscio/н
+fruscìo/н
 fruscolo/O
 frusinate
 frusinati

@@ -1,4 +1,4 @@
-295
+296
 / Specialized dictionary used to check spelling of Italian translations of
 / Mozilla products
 
@@ -52,6 +52,7 @@ ctrl
 dashboard
 Dashlane
 Daylight
+dataset
 debug
 debugger
 decodeAudioData
