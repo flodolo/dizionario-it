@@ -2229,6 +2229,11 @@ SFX n ia e ia
 SFX n o i o
 SFX n a hi [cg]a
 
+# addio, fruscìo
+SFX н N 2
+SFX н io ii .
+SFX н ìo ìi .
+
 SFX o Y 6
 SFX o o i [^igc]o
 SFX o o hi [gc]o
@@ -3423,4 +3428,3 @@ SFX = 0 novenni .
 # sn. = singolare
 # term. = termine
 # v. = vedere
-

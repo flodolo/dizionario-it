@@ -1,4 +1,4 @@
-95421
+95446
 / "Dizionario italiano" add-on for Mozilla products.
 /
 / Forked from: "Estensione linguistica italiana - Italian Writing Aids
@@ -87,7 +87,7 @@ abbaiare/ALKhlTXI
 abbaiata/QTUqs
 abbaiato/EyT
 abbaino/OTq
-abbaio/nTq
+abbaio/нTq
 abballando/D
 abballare/ALKhlTXI
 abballata/QTU
@@ -256,8 +256,8 @@ abbozzamento/OTq
 abbozzando/D
 abbozzare/ALKhlTXI
 abbozzata/QTU
-abbozzaticcia/nTU
-abbozzaticcio/OT
+abbozzaticcia/TU
+abbozzaticcio/nOT
 abbozzato/EyYT
 abbozzo/OTq
 abbozzolando/D
@@ -1775,7 +1775,7 @@ addetto/OTqr
 addì
 addiaccio/OT
 addietro/T
-addio/nTq
+addio/нTq
 addirittura
 Addis
 Addison
@@ -7624,7 +7624,7 @@ arretrato/EyTUqrs
 arriba/TUqrs
 arricchendo/D
 arricchimento/OTq
-arricchire/CTXI
+arricchire/CTXIv
 arricchirsi/MT
 arricchisca/RTX
 arricchiscano/TX
@@ -9605,6 +9605,7 @@ autenticante/UT
 autenticare/ALKhlTXI
 autenticata/QTU
 autenticato/EyT
+autenticatore/S
 autenticazione/STUqs
 autenticità/TUqs
 autentico/nTY
@@ -15353,6 +15354,7 @@ Calendasco
 calende
 calendimaggio/O
 calendola/Q
+calendula/Q
 Calenzano
 calepino/O
 Calepio
@@ -18220,7 +18222,7 @@ chinolina/Q
 chinone/S
 chinotto/O
 Chio
-chiocchiolio/n
+chiocchiolio/н
 chioccia/n
 chiocciando/D
 chiocciare/ALKhlI
@@ -18230,7 +18232,7 @@ chiocciolaio/o
 chioccolando/D
 chioccolare/ALKhlI
 chioccolato/Ey
-chioccolio/n
+chioccolio/н
 chioccolo/O
 chiodaio/o
 chiodame/S
@@ -20589,7 +20591,7 @@ condolere/I
 condoluto/Ey
 condom
 condominiale/S
-condominio
+condominio/O
 condomino/o
 condonabile/S
 condonando/D
@@ -21255,7 +21257,8 @@ contestualizzato/Ey
 contestualizzazione/S
 contezza/Q
 conticino/O
-contiene
+contiene/S
+contieni/b
 Contigliano
 contiguità
 contiguo/o
@@ -22818,8 +22821,10 @@ critici
 criticismo/O
 criticità
 criticona/QR
+crittando/D
 crittare/ALKhlI
 crittato/Ey
+crittatura/Q
 crittazione/S
 crittogama/Q
 crittogamico/p
@@ -23868,6 +23873,7 @@ decriptazione/S
 decrittando/D
 decrittare/ALKhlI
 decrittato/Ey
+decrittatura/Q
 decrittazione/S
 decubito/O
 decumano/O
@@ -27248,7 +27254,7 @@ domingo
 Dominica
 dominicale/S
 dominicano/o
-dominio
+dominio/O
 dominion
 Domitilla
 Domizia
@@ -27681,6 +27687,7 @@ duvetina/Q
 DVD
 e
 è
+e-commerce
 ebanista/QRTUqrs
 ebanisteria/QTUqrs
 ebanite/STUqrs
@@ -28813,6 +28820,7 @@ emoglobina/QTUqrs
 emoglobinometro/OTqr
 emoglobinopatia/QTUqrs
 emoglobinuria/TUqrs
+emoji
 emolinfa/QTUqrs
 emolinfatico/Tqr
 emolisi/Tqr
@@ -34401,7 +34409,8 @@ frumentone/S
 frusciando/D
 frusciare/ALKhlI
 frusciato/Ey
-fruscii
+fruscio/н
+fruscìo/н
 fruscolo/O
 frusinate
 frusinati
@@ -47153,6 +47162,7 @@ lappola/Q
 lappone/S
 Lapponia
 lapsus
+laptop
 Lara
 larario/O
 Larciano
@@ -47294,7 +47304,7 @@ lato/oYW
 latomia/Q
 latore/S
 latrando/D
-latrare/ALKhlI
+latrare/AKhlI
 latrato/Ey
 latria
 latrice/S
@@ -50702,6 +50712,7 @@ masseria/Q
 masserizia/Q
 massese/S
 massetere/S
+massetto
 masseuse
 massicci
 massiccia/n
@@ -52033,6 +52044,7 @@ microcodice
 microcomponente/S
 microcomputer
 microconflittualità
+microcontrollore/S
 microcosmico/p
 microcosmo/O
 microcriminalità
@@ -54103,6 +54115,7 @@ multipara/Q
 multiparità
 multipartitico/p
 multipartitismo
+multipiattaforma
 multiplano/O
 multiplatore/S
 multiplazione/S
@@ -54121,6 +54134,7 @@ multirebus
 multiruolo
 multisala/Q
 multistrato/O
+multitasking
 multiuso
 multiutente
 multizonale/S
@@ -55759,6 +55773,7 @@ notatore/S
 notatrice/S
 notazione/S
 note
+notebook
 noteria/Q
 notes
 notevole/SYW
@@ -60427,6 +60442,7 @@ passivazione/S
 passive
 passivismo
 passività
+passkey
 password
 pastaio/o
 pastasciutta/Q
@@ -63144,6 +63160,7 @@ pluripolide/S
 pluriposto
 pluripotente/S
 pluripotenza
+pluripremiato/Ey
 pluriprimatista/QR
 plurireattore/S
 plurireddito/O
@@ -65710,6 +65727,7 @@ profilatoio/O
 profilatrice/S
 profilattico/p
 profilatura/Q
+profilazione/S
 profiterole
 profittando/D
 profittare/ALKhlI
@@ -67330,13 +67348,13 @@ quinario/o
 quinci
 quinconce/S
 quinconciale/S
+quindi
 quindicennale/S
 quindicennio/O
 quindici/@)
 quindicimila/|!
 quindicina/Q
 quindicinale/SY
-quindo/O
 quine/S
 Quingentole
 quinquagenario/o
@@ -69137,6 +69155,7 @@ reincassato/Ey
 reincorporando/D
 reincorporare/ALKhlI
 reincorporato/Ey
+reindirizzamento/OTqr
 reindirizzando/D
 reindirizzare/ALKhlI
 reindirizzato/Ey
@@ -69167,6 +69186,7 @@ reinseritisi
 reinstallando/D
 reinstallare/ALKhlI
 reinstallato/Ey
+reinstallazione/S
 reintegrabile/S
 reintegramento/O
 reintegrando/D
@@ -69604,6 +69624,7 @@ retribuire/tvI
 retributivo/o
 retribuzione/S
 retrivo/o
+rétro
 retro
 retroagendo/D
 retroagire/CI
@@ -70585,6 +70606,7 @@ ricongiungimento/O
 ricongiunse/S
 ricongiunsero
 ricongiunzione/S
+riconnessione/S
 riconnettendo/D
 riconnettere/BI
 riconobbe/S
@@ -70774,6 +70796,8 @@ ridefinibile/S
 ridefinire/tvI
 ridefinizione/S
 ridendo/D
+ridenominare/ALKhlI
+ridenominazione/S
 ridere/BI
 riderella/QR
 ridestando/D
@@ -73874,6 +73898,7 @@ roulottopoli
 round
 Rousseau
 rousseauiano/o
+router
 routinario/o
 routine
 routiniero/o
@@ -77555,7 +77580,7 @@ sedentarizzare/ALKhlI
 sedentarizzato/Ey
 sedentarizzazione/S
 sedente/S
-sedere/ÈSI
+sedere/fSI
 sederino/O
 sedetevi
 sedia/Q
@@ -81445,7 +81470,7 @@ sottocartella/Q
 sottocchio
 sottoccupato/o
 sottoccupazione/S
-sottochiave
+sottochiave/S
 sottochio
 sottocipria
 sottoclasse/S
@@ -81477,6 +81502,7 @@ sottodirectory
 sottodirettorio
 sottodivisione/S
 sottodominante/S
+sottodominio/O
 sottodurale/S
 sottoelencato/o
 sottoesponendo/D
@@ -81565,6 +81591,7 @@ sottoproletarizzo/O
 sottopunto
 sottordine/S
 sottoregno/O
+sottorisorsa/Q
 sottoscala/Q
 sottoscarpa/Q
 sottoschema/R
@@ -86569,6 +86596,7 @@ tantalio
 Tantalo
 tantino
 tanto/oW
+tantomeno
 tantrico/p
 tantrismo
 tantum
@@ -93912,6 +93940,7 @@ videoamplificatore/S
 videoarte
 videocamera/Q
 videocassetta/Q
+videochiamata/Q
 videocitofono/O
 videoclip
 videoclippista/R
@@ -94961,6 +94990,7 @@ West
 western
 whisky
 Wi-Fi
+Wikipedia
 Wilma
 Windows
 windsurf
